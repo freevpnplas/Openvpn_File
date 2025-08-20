@@ -1,10 +1,10 @@
 { // version for updating, if there is an update, need to change more numbers than before
 
-"Version":"1.0.0.29",
+"Version":"1.0",
 
 //link for server update
 
-"Url":"https://github.zip",
+"Url":"https://github.com/freevpnplas/Openvpn_File/blob/71496f214bd5fa996571c7e92896062a1191e354/tgo.zip",
 
 "Changelog":"
 

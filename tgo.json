@@ -1,6 +1,6 @@
 {
 // version for updating, if there is an update, need to change more numbers than before
-"Version":"1.0.0.0.5",
+"Version":"1.0.3.0.5",
 //link for server update
 "Url":"https://github.com/freevpnplas/Openvpn_File/raw/refs/heads/main/tgo.zip.",
 "Changelog":"
@@ -9,7 +9,7 @@
 
 
 // don't mess with the bottoom
-"iatestVersion": "1.0.0",
+"iatestVersion": "1.0.2",
 "iatestVersionCode": "1",
 "url" "",
 "releaseNotes": [
